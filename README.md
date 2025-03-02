@@ -118,11 +118,14 @@ After running this section, the generated panoramic image will seamlessly blend 
 Ensure you have Python 3 and the following dependencies installed:
 
 ```bash
-pip install opencv-python numpy matplotlib
+   pip install opencv-python numpy matplotlib
+```
+
 
 ## Usage
 To run this project:
 1. Open the Jupyter Notebook:
-jupyter notebook panora.ipynb
+   ```bash
+   jupyter notebook coin.ipynb
 
 
