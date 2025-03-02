@@ -1,7 +1,7 @@
 # Part 1: Coin Detection and Segmentation
 
 ## Overview
-This project focuses on detecting and segmenting circular objects (coins) from an image using OpenCV. The steps include:
+This Jupyter Notebook focuses on detecting and segmenting circular objects (coins) from an image using OpenCV. The steps include:
 
 - Preprocessing the image
 - Detecting circular objects
@@ -31,19 +31,20 @@ This project focuses on detecting and segmenting circular objects (coins) from a
 - Save individual coin images for further processing.
 
 ## Outputs
-The script generates:
+The notebook generates:
 - **`detected_circles.png`**: The input image with detected coins highlighted.
 - **`detected_circles_black_bg.png`**: Coins extracted with a black background.
 - **`coin_1.png, coin_2.png, ...`**: Individual detected coin images.
 
 ## Requirements
 - Python 3
+- Jupyter Notebook
 - OpenCV (`cv2`)
 - NumPy
 - Matplotlib
 
 ## Usage
-Run the script using:
-
-```bash
-python3 part1.py
+To run this project:
+1. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook coin.ipynb
