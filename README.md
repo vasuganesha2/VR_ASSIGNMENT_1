@@ -126,6 +126,6 @@ Ensure you have Python 3 and the following dependencies installed:
 To run this project:
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook coin.ipynb
+   jupyter notebook panora.ipynb
 
 
