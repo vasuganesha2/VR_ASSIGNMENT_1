@@ -123,7 +123,6 @@ pip install opencv-python numpy matplotlib
 ## Usage
 To run this project:
 1. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook panora.ipynb
+jupyter notebook panora.ipynb
 
 
